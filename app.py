@@ -129,4 +129,3 @@ plt.close(fig)
 # 10. Thông tin người tạo
 st.divider()
 st.caption("Người tạo: Đào Lê Nam Khánh | MSSV: 038208011474")
-```
